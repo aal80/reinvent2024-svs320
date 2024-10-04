@@ -13,6 +13,7 @@ This repo contains QR codes and links used in the AWS re:Invent 2024 SVS320 sess
 * [[Guide] Building Serverless Applications with Terraform](https://serverlessland.com/content/guides/building-serverless-applications-with-terraform/01-introduction)
 * [[Workshop] Building Serverless Applications with Terraform](https://catalog.us-east-1.prod.workshops.aws/workshops/15e690e4-c067-45e9-a72e-dfef1c3678a0/en-US)
 * [AWS Terraform Provider Best Practices](https://docs.aws.amazon.com/prescriptive-guidance/latest/terraform-aws-provider-best-practices/introduction.html)
+* [Scaling Serverless Development with Platform Engineering Webinar (requires registration)](https://www.bigmarker.com/techstrong/Scaling-Serverless-Development-With-Platform-Engineering-A-Blueprint-for-Success)
 * [[Guide] Implementing governance in depth for serverless applications](https://serverlessland.com/content/service/lambda/guides/governance/1-introduction)
 * [Integration patterns with Terraform Modules](https://serverlessland.com/patterns?framework=Terraform+%28with+modules%29)
 * [Terraform resources by Anton Babenko](https://github.com/antonbabenko/terraform-aws-devops)
