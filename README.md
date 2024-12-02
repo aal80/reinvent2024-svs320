@@ -31,7 +31,11 @@ This repo contains QR codes and links used in the AWS re:Invent 2024 SVS320 sess
 * [Terraform modules](https://developer.hashicorp.com/terraform/language/modules)
 * [Serverless.tf](https://serverless.tf)
 
+## By Anton Babenko
 
-
-
-
+* [Terraform Best Practices (free ebook)](https://www.terraform-best-practices.com/)
+* [serverless.tf - Doing Serverless on AWS with Terraform](https://serverless.tf)
+* [Terraform Weekly newsletter](https://weekly.tf/)
+* [Terraform AWS modules (open-source)](https://github.com/terraform-aws-modules)
+* [Your Weekly Dose of Terraform live-streams](https://bit.ly/terraform-youtube)
+* [!NEW! Making your Terraform modules compliance-ready](https://compliance.tf)
