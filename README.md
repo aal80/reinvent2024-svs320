@@ -7,7 +7,7 @@
 This repo contains QR codes and links used in the AWS re:Invent 2024 SVS320 session. In this session, discover best practices and proven patterns for using Terraform to build serverless applications safely, predictably, and repeatedly. Learn techniques for designing modular, reusable architectures and strategies to test applications locally. Understand how to manage ownership and separation of concerns between operations and development teams. Gain insights into efficiently deploying serverless applications to the cloud. Familiarize yourself with open source frameworks to accelerate your serverless journey with Terraform today. Leave equipped with practical skills for leveraging Terraform’s power in your organization’s modern cloud architectures.
 
 ## Slides
-* [Session presentation slides](TBD)
+* [Session presentation slides](_SVS320-Accelerate Serverless Deployments using Terraform.pdf)
 
 ## Next Steps
 * [[Guide] Building Serverless Applications with Terraform](https://serverlessland.com/content/guides/building-serverless-applications-with-terraform/01-introduction)
