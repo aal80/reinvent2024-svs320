@@ -2,9 +2,11 @@
 
 ![](terraform-plus-serverless.png)
 
-
 ## Accelerate serverless deployments using Terraform with proven patterns
 This repo contains QR codes and links used in the AWS re:Invent 2024 SVS320 session. In this session, discover best practices and proven patterns for using Terraform to build serverless applications safely, predictably, and repeatedly. Learn techniques for designing modular, reusable architectures and strategies to test applications locally. Understand how to manage ownership and separation of concerns between operations and development teams. Gain insights into efficiently deploying serverless applications to the cloud. Familiarize yourself with open source frameworks to accelerate your serverless journey with Terraform today. Leave equipped with practical skills for leveraging Terraform’s power in your organization’s modern cloud architectures.
+
+## Video (click to watch)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fX7c2GGqTWs/0.jpg)](https://www.youtube.com/watch?v=fX7c2GGqTWs)
 
 ## Slides
 * [Session presentation slides](./SVS320_terraform_for_serverless.pdf?raw=true)
